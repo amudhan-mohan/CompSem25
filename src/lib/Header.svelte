@@ -14,15 +14,15 @@
 
    <button on:click={
         () => {menuToggle = ! menuToggle}
-    } class="p-2 text-gray-200 text-sm lg:hidden transition-transform duration-75 ease-in-out hover:scale-125 rounded-md  hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-300 hover:to-red-400">
+    } class="p-2 text-gray-200 text-sm lg:hidden transition-transform duration-75 ease-in-out hover:scale-125 rounded-md  hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-blue-800 hover:to-cyan-400">
         Menu
    </button>
 
 
-    <nav class="flex bg-gray-800/40 md:bg-transparent {mdScreen ? '' : menuToggle ? 'border-2 border-rose-400 animate-menu-drop flex-col text-center rounded-md items-center backdrop-blur-sm' : 'hidden'} text-sm justify-evenly md:gap-4  text-gray-200">
-        <Link on:click= {() => menuToggle = false} to="/" class="font-anta text-xl p-2 transition-transform duration-75 ease-in-out hover:scale-125 rounded-md hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-300 hover:to-red-400">Home</Link>
-        <Link on:click= {() => menuToggle = false} to="/events/technical" class="font-anta text-xl p-2  transition-transform duration-75 ease-in-out hover:scale-125 hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-300 hover:to-red-400">Technical Events</Link>
-        <Link on:click= {() => menuToggle = false} to="/events/nontechnical" class="font-anta text-xl p-2  transition-transform duration-75 ease-in-out hover:scale-125 hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-300 hover:to-red-400">Non Technical Events</Link>
-        <a href="/#contacts" class="font-anta text-xl p-2 transition-transform duration-75 ease-in-out hover:scale-125 hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-pink-300 hover:to-red-400">Contact Us</a>
+    <nav class="flex bg-gray-800/40 md:bg-transparent {mdScreen ? '' : menuToggle ? 'border-2 border-cyan-400 animate-menu-drop flex-col text-center rounded-md items-center backdrop-blur-sm' : 'hidden'} text-sm justify-evenly md:gap-4  text-gray-200">
+        <Link on:click= {() => menuToggle = false} to="/" class="font-anta text-xl p-2 transition-transform duration-75 ease-in-out hover:scale-125 rounded-md hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-blue-800 hover:to-cyan-400">Home</Link>
+        <Link on:click= {() => menuToggle = false} to="/events/technical" class="font-anta text-xl p-2  transition-transform duration-75 ease-in-out hover:scale-125 hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-blue-800 hover:to-cyan-400">Technical Events</Link>
+        <Link on:click= {() => menuToggle = false} to="/events/nontechnical" class="font-anta text-xl p-2  transition-transform duration-75 ease-in-out hover:scale-125 hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-blue-800 hover:to-cyan-400">Non Technical Events</Link>
+        <a href="/#contacts" class="font-anta text-xl p-2 transition-transform duration-75 ease-in-out hover:scale-125 hover:text-md hover:bg-clip-text hover:text-transparent hover:bg-gradient-to-r hover:from-blue-800 hover:to-cyan-400">Contact Us</a>
     </nav>
 </header>
