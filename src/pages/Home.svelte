@@ -16,6 +16,20 @@
     let targetDate: any = new Date("2024-09-25T15:00:00");
     let timeLeft = Math.floor((targetDate - new Date())/ 1000);
 
+    let compSemYearOld = 0;
+    let comSemYearOldCounter: any;
+
+    onMount(() => {
+        comSemYearOldCounter = setInterval(() => {
+            if (compSemYearOld < 24){
+                compSemYearOld = (compSemYearOld + 1) % 100;
+            } else {
+                clearInterval(comSemYearOldCounter);
+            }
+        }, 30);
+
+    });
+
     let compSemYear = 0;
     let comSemYearCounter: any;
 
@@ -101,9 +115,9 @@
            - Hero Section
            -->
         <div class="flex flex-col items-center justify-center">
-            <h1 class="lg:text-[12rem] md:text-[6rem] text-[3rem] mb-4 text-gray-100">
-                <span class="animate-clip-text-from-below font-anta">Comp</span><span class="animate-clip-text-from-above font-anta">Sem</span><span
-                class="bg-clip-text text-transparent bg-gradient-to-r from-[#0B666A] to-blue-800 font-anta">'{compSemYear}</span>
+            <h1 class="lg:text-[9rem] md:text-[6rem] text-[3rem] mb-4 text-gray-100">
+                <span class="animate-clip-text-from-below font-anta">Comp</span><span class="animate-clip-text-from-above font-anta">Sem</span>
+                <span class="bg-clip-text text-transparent bg-gradient-to-r from-[#0B666A] to-blue-800 font-anta">'{compSemYearOld}-{compSemYear}</span>
             </h1>
                 {#if timeLeft > 0}
                     <div class="border-cyan-400 border-2  text-sm md:text-lg border py-3 rounded-md px-4 flex flex-col items-center">
