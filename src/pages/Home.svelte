@@ -103,14 +103,14 @@
         <div class="flex flex-col items-center justify-center">
             <h1 class="lg:text-[12rem] md:text-[6rem] text-[3rem] mb-4 text-gray-100">
                 <span class="animate-clip-text-from-below font-anta">Comp</span><span class="animate-clip-text-from-above font-anta">Sem</span><span
-                class="bg-clip-text text-transparent bg-gradient-to-r from-pink-300 to-red-400 font-anta">'{compSemYear}</span>
+                class="bg-clip-text text-transparent bg-gradient-to-r from-[#0B666A] to-blue-800 font-anta">'{compSemYear}</span>
             </h1>
                 {#if timeLeft > 0}
-                    <div class="border-red-400 border-2  text-sm md:text-lg border py-3 rounded-md px-4 flex flex-col items-center">
-                        <p class="text-red-400">Resuming in</p>
+                    <div class="border-cyan-400 border-2  text-sm md:text-lg border py-3 rounded-md px-4 flex flex-col items-center">
+                        <p class="text-cyan-400">Resuming in</p>
                         <span class="flex gap-2 text-gray-900 bg-gray-800/40 backdrop-blur-sm rounded-md justify-between mt-2">
                             {#each Object.entries(countdown) as [key, value]}
-                            <span class="text-center text-sm text-rose-400 md:text-md w-14  p-2 rounded-md ">
+                            <span class="text-center text-sm text-cyan-400 md:text-md w-14  p-2 rounded-md ">
                                 <p>{value}</p>
                                 <p>{key}</p>
                             </span>
@@ -123,8 +123,8 @@
                                 <p class="px-4 font-anta py-2">Live</p>
 
                                 <span class="h-3 z-3 w-3 top-0 right-0 absolute">
-                                    <span class="h-full w-full  bg-red-400 rounded-full animate-ping opacity-75 absolute"></span>
-                                    <span class="h-full w-full rounded-full bg-red-400 absolute"></span>
+                                    <span class="h-full w-full  bg-cyan-400 rounded-full animate-ping opacity-75 absolute"></span>
+                                    <span class="h-full w-full rounded-full bg-cyan-400 absolute"></span>
                                 </span>
                         </div>
                 {/if}
@@ -206,7 +206,7 @@ The department has two research laboratories having high-end systems with NVIDIA
             {#each eventsCategories as ev}
                 <Link
                     to='{ev.to}'
-                    class="text-xs backdrop-blur-sm text-gray-100 md:text-lg hover:scale-110 hover:text-2xl border-rose-500 border-2 h-24 md:h-80 w-24 md:w-80 flex justify-center items-center p-4 md:p-4 rounded-md  shadow-lg shadow-rose-500/50">
+                    class="text-xs backdrop-blur-sm text-gray-100 md:text-lg hover:scale-110 hover:text-2xl border-cyan-500 border-2 h-24 md:h-80 w-24 md:w-80 flex justify-center items-center p-4 md:p-4 rounded-md  shadow-lg shadow-cyan-500/50">
                     <p class="font-anta">{ev.name}</p>
                 </Link>
             {/each}
@@ -222,8 +222,8 @@ The department has two research laboratories having high-end systems with NVIDIA
             <div class="text-center p-1 md:p-4">
                 <p class="font-anta md:text-lg font-semibold">{contact.name}</p>
                 <p>{contact.designation}</p>
-                <a href="tel:{contact.phone}" class="text-rose-400  md:text-sm"><span class="hidden md:inline text-gray-300" >Phone: </span>{contact.phone}</a><br/>
-                <a href="mailto:{contact.email}" class="text-rose-400  md:text-sm"><span class="hidden md:inline text-gray-300" >Email: </span>{contact.email}</a>
+                <a href="tel:{contact.phone}" class="text-cyan-400  md:text-sm"><span class="hidden md:inline text-gray-300" >Phone: </span>{contact.phone}</a><br/>
+                <a href="mailto:{contact.email}" class="text-cyan-400  md:text-sm"><span class="hidden md:inline text-gray-300" >Email: </span>{contact.email}</a>
             </div>
             {/each}
         </div>
