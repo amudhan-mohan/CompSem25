@@ -1,0 +1,22 @@
+[
+    {
+        "heading": "Change of Newsletter Event Date",
+        "content": "The Date for Newsletter event has been postponed to 19th of March. Click on the notification to register soon !!!",
+        "url" : "/event/news_letter",
+        "date": "2024-03-02T00:00:00"
+    },
+    {
+        "heading": "A pause for a cause",
+        "content": "Compsem events are paused till 6th of march due to mid examinations",
+        "url" : "/",
+        "date": "2024-03-02T00:00:00"
+    },
+    {
+        "heading": "Day 6 Non - Technical Event : Treasure Hunt",
+        "content": "Click here to register for the day 6 non-technical event", 
+        "url" : "/event/treasure_hunt",
+        "date": "2024-03-02T00:00:00"
+    }
+
+]
+

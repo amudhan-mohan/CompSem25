@@ -1,0 +1,672 @@
+[
+    {
+        "heading": "Technical Quiz",
+        "scheduledDate": "2024-02-26T15:00:00",
+        "type": "technical",
+        "oneliner": "Group Event",
+        "description": "The Technical Quiz event is designed to test participants' knowledge and understanding of various technical subjects like science, engineering, technology, mathematics, and computing. It aims to engage participants in a challenging and intellectually stimulating competition where they can showcase their expertise and problem-solving abilities in these fields with simple quizzes. The questions may cover a wide range of topics, from basic principles to advanced concepts, and may require both theoretical understanding and practical application.",
+        "note": "This is a group event where 4 members are allowed. Groups are advised to have a name and designate a group leader to whom the details will be shared. ",
+        "staffs": [
+            {
+                "name": "Dr. R. Bhavani",
+                "designation": "Professor & Head"
+            },
+            {
+                "name": "Dr. G. Prabakaran",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/ws7GsKL5YoK8B4SZ6",
+        "students": [
+            { "name":"V. Rajeshwaran",
+              "phone": "8940338808"
+            },
+            { "name":"G. L. Dhivya",
+              "phone": "9159961501"
+            },
+            { "name":"P. A. Pavithran",
+              "phone": "7708512081"
+            }
+        ],
+        "to": "tech_quiz"
+    },
+    {
+        "heading": "Technical Connection",
+        "scheduledDate": "2024-02-27T15:00:00",
+        "type": "technical",
+        "oneliner": "Group Event",
+        "description": "The Technical Connection Event is a competition designed to test participants' technical knowledge in various fields such as engineering, computer science, and technology. Participants will engage in a series of challenges that require them to utilize their knowledge and creativity to solve real-world problems by connecting various images. This event aims to promote innovation, collaboration, and critical thinking among participants.",
+        "note": "This is a group event where 4 members are allowed. Groups are advised to have a name and designate a group leader to whom the details will be shared.",
+        "staffs": [
+            {
+                "name": "Dr. M. Balasubramanian",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. M. Arulselvi",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/kgrWocE9ncT9mzp88",
+        "students": [
+            { "name":"R. Haripriya",
+              "phone": "7010681369"
+            },
+            { "name":"J. Riyaz Mohamed",
+              "phone": "9342362500"
+            },
+            { "name":"R. Nithya Sri",
+              "phone": "9944053872"
+            }
+        ],
+        "to": "tech_conn"
+    },
+    {
+        "heading": "Brain Teaser",
+        "scheduledDate": "2024-02-28T15:00:00",
+        "type": "technical",
+        "oneliner": "Group Event",
+        "description": "The Brain Teaser for Current Affairs Test event is designed to challenge participants' knowledge of recent news events and their ability to think critically and solve complex problems. Participants will be presented with a series of brain teasers and puzzles related to current affairs, requiring them to apply their understanding of recent events to find solutions.",
+        "note": "This is a group event where 4 members are allowed. Groups are advised to have a name and designate a group leader to whom the details will be shared.",
+        "staffs": [
+            {
+                "name": "Dr. R. Priya",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. T. Suresh",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/xUAqFW7Lupes1bpv5",
+        "students": [
+            { "name":"J. Rathnagopal",
+              "phone": "9384324688"
+            },
+            { "name":"R. Amirthanathan",
+              "phone": "8610504901"
+            },
+            { "name":"S. Preethiga",
+              "phone": "9399248912"
+            }
+        ],
+        "to": "brain_tease"
+    },
+    {
+        "heading": "Coding Challenge",
+        "scheduledDate": "2024-02-29T15:00:00",
+        "type": "technical",
+        "oneliner": "Individual Event",
+        "description": "The coding challenge test event is a competition designed to assess participants' programming skills and problem-solving abilities. Participants will be given a series of coding challenges that they must solve within a specified time frame. The challenges may cover a range of topics such as algorithms, data structures, and problem-solving techniques. The event provides an opportunity for participants to showcase their coding prowess and compete against others in a friendly and competitive environment.",
+        "note": "Participants may bring their own laptops to the competition. Alternatively, if they require the use of lab systems, they should inform to the Student Co-ordinator in advance.",
+        "staffs": [
+            {
+                "name": "Dr. S. Palanivel",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. M. Balasubramanian",
+                "designation": "Professor"
+            }],
+        "form": "https://forms.gle/HY7t4M3yG6GtuqWP8",
+        "students": [
+            { "name":"I. Sahithyan",
+              "phone": "9361133021"
+            },
+            { "name":"K. Manodharshan",
+              "phone": "9543347886"
+            },
+            { "name":"A. Naveena",
+              "phone": "9043126275"
+            }
+        ],
+        "to": "coding_challenge"
+    },
+    {
+        "heading": "Debugging",
+        "scheduledDate": "2024-03-01T15:00:00",
+        "type": "technical",
+        "oneliner": "Group Event",
+        "description": "The debugging event is a competition where participants are tasked with identifying and fixing errors or bugs in software code or program. Participants may be given a set of code snippets, programs, or systems with known bugs, and they must use their problem-solving skills and technical expertise to locate and correct these issues within a specified time frame.",
+        "note": "This is a group event where 2 members can be in a team, teams are advised to have a name and designate a group leader to whom the details will be shared.Participants may bring their own laptops to the competition. Alternatively, if they require the use of lab systems, they should inform to the Student Co-ordinator in advance.",
+        "staffs": [
+            {
+                "name": "Dr. A. Geetha",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. R. Arunkumar",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/kN1xwB8Fz1QdqpAaA",
+        "students": [
+            { "name":"D. Bharanidharan",
+              "phone": "9361917993"
+            },
+            { "name":"V. L. Ashik Jenly",
+              "phone": "7397068566"
+            },
+            { "name":"R. Sowndharya",
+              "phone": "9344068249"
+            }
+        ],
+        "to": "debugging"
+    },
+    {
+        "heading": "Newsletter: Theme & Template",
+        "scheduledDate": "2024-03-19T15:00:00",
+        "type": "technical",
+        "oneliner": "Group Event",
+        "description": "Embark on a captivating journey of intellect and innovation with our newsletter event, 'Name our Newsletter' This thoughtfully crafted publication weaves together a rich tapestry of ideas, insights, and inspiration. Explore the realms of knowledge as we delve into diverse topics, connecting minds and fostering a community of curious thinkers. Join us in this intellectual adventure, where each edition promises to be a voyage into the realms of discovery, collaboration, and enlightenment. Name our newsletter event, and let the exploration of ideas begin!",
+        "note": "Participants may bring their own laptops to the competition. Alternatively, if they require the use of lab systems, they should inform to the Student Co-ordinator in advance.",
+        "staffs": [
+            {
+                "name": "Dr. P. Aruna",
+                "designation": "Professor"
+            },
+            {
+              "name": "Dr. A.N. Sigappi",
+              "designation": "Professor"
+            },
+            {
+                "name": "Dr. P. Anbalagan",
+                "designation": "Assistant Professor"
+            }
+        ],
+        "form": "https://forms.gle/cL6VT1WKTrMuHURD9",
+        "students": [
+            { "name":"R. Gowdham",
+              "phone": "8428764256"
+            },
+            { "name":"H. Janarthanan",
+              "phone": "9842307274"
+            },
+            { "name":"S. Jeya Prakash",
+              "phone": "9976605533"
+            }
+        ],
+        "to": "news_letter"
+    },
+    {
+        "heading": "Aptitude & Reasoning",
+        "scheduledDate": "2024-03-08T15:00:00",
+        "type": "technical",
+        "oneliner": "Individual Event",
+        "description": "The Aptitude and Reasoning event is a competitive challenge designed to test participants' problem-solving abilities, logical reasoning skills, and numerical aptitude. Participants will engage in a series of tasks and questions that require them to analyze information, make deductions, and apply critical thinking to arrive at solutions.",
+        "note": "Participants should be prepared on topics of Quantitative, logical reasoning, and verbal aptitude questions.",
+        "staffs": [
+            {
+                "name": "Dr. A. Suhasini",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. S. Saravanan",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/aJVdWCE9STBCi3S16",
+        "students": [
+            { "name":"G.  Rahulan",
+              "phone": "7339261080"
+            },
+            { "name":"S. Ajay",
+              "phone": "6382615836"
+            },
+            { "name":"S. Devasundari",
+              "phone": "8015405836"
+            }
+        ],
+        "to": "aptitude"
+    },
+    {
+        "heading": "Poster Design",
+        "scheduledDate": "2024-03-11T15:00:00",
+        "type": "technical",
+        "oneliner": "Individual Event",
+        "description": "The Poster Design Event is a creative competition where participants are invited to showcase their artistic skills and design abilities by creating visually appealing posters on a given theme or topic. Participants will have the opportunity to express their ideas, messages, or concepts through a combination of images, graphics, and text on a single poster. The event aims to promote creativity, originality, and effective communication through visual mediums.",
+        "note": "Participants may bring their own laptops to the competition. Alternatively, if they require the use of lab systems, they should inform to the Student Co-ordinator in advance.",
+        "staffs": [
+            {
+                "name": "Dr. G. Arulselvi",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. B. Kirubagari",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/rA9kYp6KCsPciGLX6",
+        "students": [
+            { "name":"R. Mithun",
+              "phone": "9789569181"
+            },
+            { "name":"C. Sanjay",
+              "phone": "7373279196"
+            },
+            { "name":"B. Jananika",
+              "phone": "9566757435"
+            }
+        ],
+        "to": "poster_design"
+    },
+    {
+        "heading": "Web Design",
+        "scheduledDate": "2024-03-12T15:00:00",
+        "type": "technical",
+        "oneliner": "Individual Event",
+        "description": "The web design event is a competition where participants showcase their creativity, technical skills, and knowledge of web design principles. Participants are given a specific theme or prompt and are required to design a website that effectively communicates the theme while demonstrating usability, functionality, and aesthetic appeal. (Note: Participants may bring their own laptop or use the Lab Systems, and if needed, they should inform as early as possible.)",
+        "note": "Participants may bring their own laptops to the competition. Alternatively, if they require the use of lab systems, they should inform to the Student Co-ordinator in advance.",
+        "staffs": [
+            {
+                "name": "Mr. A. Kanthimathinathan",
+                "designation": "Assistant Professor"
+            },
+            {
+                "name": "Dr. K. T. Meena Abarna",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/RsYNrhfqc1MR8gRk8",
+        "students": [
+            { "name":"H. Janarthanan",
+              "phone": "9842307274"
+            },
+            { "name":"M. T. Ravi Prakasham",
+              "phone": "8054602767"
+            },
+            { "name":"J. V. Vishnu Priya",
+              "phone": "9342523988"
+            }
+        ],
+        "to": "web_design"
+    },
+    {
+        "heading": "UI / UX Design",
+        "scheduledDate": "2024-03-14T15:00:00",
+        "type": "technical",
+        "oneliner": "Individual Event",
+        "description": "The UI & UX Design event is a competition that challenges participants to showcase their skills in creating user-friendly and visually appealing digital interfaces. Participants will be tasked with designing interfaces for various platforms such as websites, mobile apps, or software applications. The event aims to promote creativity, innovation, and best practices in UI & UX design. (Note: Participants should bring their own laptop with the required software.)",
+        "note": "Participants must bring their own laptops to the competition with the required software installed.",
+        "staffs": [
+            {
+                "name": "Dr. A. N. Sigappi",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. K. Kavitha",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/dftLpneySMyie5Fq7",
+        "students": [
+            { "name":"S. Jeya Prakash",
+              "phone": "9976605533"
+            },
+            { "name":"M. Pradeep",
+              "phone": "8148353521"
+            },
+            { "name":"A. Jeevitha",
+              "phone": "8248823880"
+            }
+        ],
+        "to": "ui_ux"
+    },
+    {
+        "heading": "Paper Presentation",
+        "scheduledDate": "2024-03-18T15:00:00",
+        "type": "technical",
+        "oneliner": "Individual Event",
+        "description": "The Paper Presentation event is an opportunity for individuals or teams to present their research, ideas, or findings on a specific topic to an audience. Participants will prepare and deliver a presentation based on their paper, showcasing their knowledge, insights, and contributions to the field. The event aims to foster intellectual exchange, promote critical thinking, and encourage academic discourse. (Note: Participants should bring their own laptop with the required software.)",
+        "note": "Participants should present on any one of the following Theme - Quantum Computing or Human - Computer Integration or Edge Computing.",
+        "staffs": [
+            {
+                "name": "Dr. P. Dhanalakshmi",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. S. Mohan",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/QPZsv288XTPPvZ44A",
+        "students": [
+            { "name":"M. Barath",
+              "phone": "9791643891"
+            },
+            { "name":"V. Vijayapriya",
+              "phone": "8148065931"
+            },
+            { "name":"A. Brijesh",
+              "phone": "8825745565"
+            }
+        ],
+        "to": "paper_presentation"
+    },
+    {
+        "heading": "Essay Writing",
+        "scheduledDate": "2024-02-26T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Individual Event",
+        "description": "The Essay Writing event is a competition where participants are tasked with crafting well-researched, articulate, and persuasive essays on a given topic or prompt. Participants are challenged to showcase their writing skills, critical thinking abilities, and creativity within a specified time frame. The event aims to promote literacy, encourage intellectual discourse, and celebrate the art of writing.",
+        "note": "Participants should prepare on any one of the following Themes - social media influencing (For English) or அரசியல் பரிமாணம் (For Tamil) ",
+        "staffs": [
+            {
+                "name": "Dr. A. Suhasini",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. R. Madhan Mohan",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/bafotqaZJS1gw6fm6",
+        "students": [
+            { "name":"N. Leena",
+              "phone": "6384058012"
+            },
+            { "name":"T. Sundarapandi",
+              "phone": "6369017779"
+            },
+            { "name":"J. S. Arshia",
+              "phone": "8610361167"
+            }
+        ],
+        "to": "essay"
+    },
+    {
+        "heading": "Speech Competition",
+        "scheduledDate": "2024-02-27T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Individual Event",
+        "description": "The Speech Competition event is an opportunity for individuals to showcase their public speaking skills by delivering engaging and persuasive speeches on a variety of topics. Participants will present their speeches in front of an audience and a panel of judges, aiming to captivate, inform, or inspire their listeners. The event provides a platform for participants to express their ideas, demonstrate their communication abilities, and compete for recognition and prizes.",
+        "note": "Participants should prepare on any one of the following Themes - Importance of Education (For English) or உலக நிலை பொருளாதாரம் (For Tamil)",
+        "staffs": [
+            {
+                "name": "Dr. A.N. Sigappi",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. G. Arulselvi",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/ySJkmchgbVf3uf5z9",
+        "students": [
+            { "name":"Dhivya Harini",
+              "phone": "9344866583"
+            },
+            { "name":"S. A. Nilavanan",
+              "phone": "9688635548"
+            },
+            { "name":"S. V. Ishwarni",
+              "phone": "7339452655"
+            }
+        ],
+        "to": "speech_competition"
+    },
+    {
+        "heading": "Debate",
+        "scheduledDate": "2024-02-28T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Group Event",
+        "description": "The Debate event is a structured competition where participants engage in formal argumentation on a given topic or resolution. Participants, typically organized into teams, present arguments, rebuttals, and counterarguments in a persuasive and articulate manner. The event aims to promote critical thinking, public speaking skills, and the ability to construct coherent arguments.",
+        "note": "Participants should prepare on any one of the following Themes - Technology in Society: Developing or Spoiling (For English) or செயற்கை நுண்ணறிவு: ஆபத்தானதா ? பயனுள்ளதா ? (For Tamil)",
+        "staffs": [
+            {
+                "name": "Dr. M. Kalaiselvi Geetha",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. P. Anbalagan",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/GTAeQ5ofKmzwze6XA",
+        "students": [
+            { "name":"V. Vimal",
+              "phone": "9486364030"
+            },
+            { "name":"B. Nawin",
+              "phone": "6369017779"
+            },
+            { "name":"E. Jayapriya",
+              "phone": "6381975609"
+            }
+        ],
+        "to": "debate"
+    },
+    {
+        "heading": "Drawing",
+        "scheduledDate": "2024-02-29T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Induvidual Event",
+        "description": "The drawing event is a creative competition where participants showcase their artistic talents through drawing or illustration. Participants may be given a specific theme or subject to draw, or they may have the freedom to choose their own topic. The event provides a platform for artists of all skill levels to express themselves and share their artwork with others.",
+        "note": "Participants may prepare on any topic they wish.",
+        "staffs": [
+            {
+                "name": "Dr. S. G. Santhi",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. S. Arivalagan",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/YBjgUKZycbh9tHA88",
+        "students": [
+            { "name":"H. Janarthanan",
+              "phone": "9842307274"
+            },
+            { "name":"J. V. Vishnu Priya",
+              "phone": "9342523988"
+            },
+            { "name":"R. Nithya Sri",
+              "phone": "9944053872"
+            }
+        ],
+        "to": "drawing"
+    },
+    {
+        "heading": "Group Discussion",
+        "scheduledDate": "2024-03-01T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Individual Event",
+        "description": "The group discussion event is an opportunity for participants to engage in a structured discussion on a given topic. Participants will be divided into groups, and each group will discuss the topic for a specified amount of time. The goal is to exchange ideas, listen to different perspectives, and come to a collective understanding or solution.",
+        "note": "The topic to the Participants will be given on-the-spot.",
+        "staffs": [
+            {
+                "name": "Dr. C. Anbuananth",
+                "designation": "Assistant Professor"
+            },
+            {
+                "name": "Dr. M. Thillaikarasi",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/KJRNEBf1LNr2vddT7",
+        "students": [
+            { "name":"R. Kanagasabai",
+              "phone": "9597519751"
+            },
+            { "name":"R. Surya Prakash",
+              "phone": "9894676775"
+            },
+            { "name":"P. Narmatha Shree",
+              "phone": "9384390924"
+            }
+        ],
+        "to": "group_discussion"
+    },
+    {
+        "heading": "Treasure Hunt",
+        "scheduledDate": "2024-03-07T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Group Event",
+        "description": "The treasure hunt event is an exciting and interactive activity where participants work in teams to solve clues, follow a series of hints, and ultimately locate a hidden 'treasure' or prize. The event typically takes place in a defined area, such as a park, campus, or city, and participants must use their problem-solving skills, creativity, and teamwork to successfully complete the hunt.",
+        "note": "Rules and regulations will be announced shortly.....",
+        "staffs": [
+            {
+                "name": "Dr. G. Ramachandran",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. S. Mohan",
+                "designation": "Assistant Professor"
+            }],
+        "form": "https://forms.gle/1GNqDp41wTeKL6VW6",
+        "students": [
+            { "name":"Anirudh Krishna",
+              "phone": "9281057264"
+            },
+            { "name":"J. Job",
+              "phone": "9342809948"
+            },
+            { "name":"S. Chiranchievi",
+              "phone": "6369171507"
+            }
+        ],
+        "to": "treasure_hunt"
+    },
+    {
+        "heading": "Photography",
+        "scheduledDate": "2024-03-08T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Individual Event",
+        "description": "The photography event is an opportunity for participants to showcase their photography skills and creativity. Participants will capture images based on a given theme or category, and their photos will be judged based on criteria such as composition, creativity, technical proficiency, and adherence to the theme.",
+        "note": "Participants should give the photos to the coordinators before the day of the event and most importantly iPhone and camera is not allowed in the competition.",
+        "staffs": [
+            {
+                "name": "Dr. N. J. Nalini",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. L. R. Sudha",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/QYJ8HKUtFXmCBVW77",
+        "students": [
+            { "name":"M. S. Shree Varsha",
+              "phone": "8667382858"
+            },
+            { "name":"M. Pradeep",
+              "phone": "8148353521"
+            },
+            { "name":"P. Subameena",
+              "phone": "9943245237"
+            }
+        ],
+        "to": "photography"
+    },
+    {
+        "heading": "Meme Creation",
+        "scheduledDate": "2024-03-11T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Individual Event",
+        "description": "The meme creation event is a fun and creative competition where participants generate humorous and engaging memes based on a given theme or topic. Memes are typically images, videos, or text that spread rapidly across the internet, often accompanied by witty captions or commentary. Participants will have the opportunity to showcase their creativity, humor, and digital design skills in this light-hearted competition.",
+        "note": "Topic for the meme creation will be given on the spot. Participants has to prepare the content on the specified topic within the given time. Content should not cause any form of offence and should not include adult/animation template",
+        "staffs": [
+            {
+                "name": "Dr. R. Ragupathy",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. M. Arulselvi",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/nGh76hQntaWuRfe39",
+        "students": [
+            { "name":"D. Devadharshini",
+              "phone": "8110983094"
+            },
+            { "name":"A. Balaganapathy",
+              "phone": "7810073983"
+            },
+            { "name":"Mohamed Azzez",
+              "phone": "9786760990"
+            }
+        ],
+        "to": "meme_creation"
+    },
+    {
+        "heading": "Poetry",
+        "scheduledDate": "2024-03-12T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Individual Event",
+        "description": "The poetry event is a platform for participants to showcase their creative writing skills and share their original poetry with an audience. Participants may recite their poems live or submit written works for evaluation. The event celebrates the beauty and power of language through various poetic forms and styles.",
+        "note": "Participants should prepare on any one of the following Themes - Reflection of Past (For English) or உலகின் உயிர்கள் (For Tamil)",
+        "staffs": [
+            {
+                "name": "Dr. P. Sudhakar",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. S. Pasupathy",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/B3aVUoXjYbkw1fwh8",
+        "students": [
+            { "name":"P. Sathiyapravin",
+              "phone": "9787199439"
+            },
+            { "name":"T. G. Swedha",
+              "phone": "9384460013"
+            },
+            { "name":"D. Buvanaa Dharshini",
+              "phone": "6379469579"
+            }
+        ],
+        "to": "poetry"
+    },
+    {
+        "heading": "Cook Without Fire",
+        "scheduledDate": "2024-03-14T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Group Event",
+        "description": "The 'Cook Without Fire' event is a fun and creative culinary competition where participants prepare delicious dishes without using any heat source. Instead, participants rely on techniques such as mixing, chopping, marinating, and assembling ingredients to create appetizing dishes. The event encourages innovation, teamwork, and culinary skills, and it is suitable for participants of all ages.",
+        "note": "Participants should make the dishes only during the competition and bringing dish from your home or buying somewhere will not be encouraged. And should not make the place dirty.",
+        "staffs": [
+            {
+                "name": "Dr. P. Aruna",
+                "designation": "Professor"
+            },
+            {
+                "name": "Dr. R. Saminathan",
+                "designation": "Associate Professor"
+            }],
+        "form": "https://forms.gle/Wts7xgz7EDDZwr5M9",
+        "students": [
+            { "name":"R. Madhumitha",
+              "phone": "7639374205"
+            },
+            { "name":"S. Sivaa Ganesh",
+              "phone": "8610040405"
+            },
+            { "name":"B. Suji Shri",
+              "phone": "9486043721"
+            }
+        ],
+        "to": "cook_without_fire"
+    },
+    {
+        "heading": "Short Film",
+        "scheduledDate": "2024-03-18T15:00:00",
+        "type": "nontechnical",
+        "oneliner": "Group Event",
+        "description": "The Short Film Competition is an event designed to showcase the creativity and talent of filmmakers in crafting compelling narratives within a limited time frame. Whether you're a seasoned filmmaker or a budding talent, this competition provides a platform to express your ideas, experiment with storytelling techniques, and captivate audiences with your short film.",
+        "note": "This is a group event where 5 members are allowed. Groups are advised to submit their respective films one day before the event, Sentiments, love, violence, alcohol consumption and use of harsh language should be avoided. ",
+        "staffs": [
+            {
+                "name": "Dr. G. Arulselvi",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. K. Kavitha",
+                "designation": "Associate Professor"
+            },
+            {
+                "name": "Dr. A. Punitha",
+                "designation": "Associate Professor"
+            }
+        ],
+        "form": "https://forms.gle/GNeEpkspHGc5RCgG8",
+        "students": [
+            { "name":"K. S. Vinodkumar",
+              "phone": "9952385850"
+            },
+            { "name":"S. Aravind",
+              "phone": "8778278866"
+            },
+            { "name":"R. Dharani",
+              "phone": "6379651358"
+            }
+        ],
+        "to": "short_film"
+    }
+]

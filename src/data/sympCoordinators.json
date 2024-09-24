@@ -1,0 +1,31 @@
+{
+
+    "staffs": [
+        {
+            "name" : "Dr. P. Aruna",
+            "designation": "Professor"
+        },
+        {
+            "name" : "Dr. A. N. Sigappi",
+            "designation": "Professor"
+        },
+        {
+            "name" : "Dr. M. Kalaiselvi Geetha",
+            "designation": "Professor"
+        }
+    ],
+
+    "student": [
+        {
+            "name" : "Mr. H. Janarthanan",
+            "designation": "Student Coordinator",
+            "phone": "+91 9842307274"
+        },
+        {
+            "name" : "Mr. S. Keerthivasan",
+            "designation": "Vice President, IEI",
+            "phone": "+91 9443077459"
+        }
+    ]
+
+}
