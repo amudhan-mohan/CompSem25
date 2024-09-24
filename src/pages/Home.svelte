@@ -115,7 +115,7 @@
            - Hero Section
            -->
         <div class="flex flex-col items-center justify-center">
-            <h1 class="lg:text-[8rem] md:text-[6rem] text-[3rem] mb-4 text-gray-100">
+            <h1 class="lg:text-[9rem] md:text-[6rem] text-[2rem] mb-4 text-gray-100">
                 <span class="animate-clip-text-from-below font-anta">Comp</span><span class="animate-clip-text-from-above font-anta">Sem</span>
                 <span class="bg-clip-text text-transparent bg-gradient-to-r from-[#0B666A] to-blue-800 font-anta">'{compSemYearOld}-{compSemYear}</span>
             </h1>
